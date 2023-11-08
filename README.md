@@ -1,5 +1,5 @@
 # LiveSplitToUrn
-Python script to convert a .lss LiveSplit file to a JSON file for use with a `paoloose`'s fork of (Urn)[https://github.com/paoloose/urn]
+Python script to convert a .lss LiveSplit file to a JSON file for use with [`paoloose`](https://github.com/paoloose)'s fork of [Urn](https://github.com/paoloose/urn)
 
 This is public domain code, cuz I needed this a lot and if you do too, I want to save someone half an hour.
 Feel free to submit issues and crap.
