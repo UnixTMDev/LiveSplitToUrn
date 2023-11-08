@@ -6,3 +6,5 @@ Feel free to submit issues and crap.
 
 Usage: `python main.py input_file.lss [output_file.json]`
 Will write to `stdout` if output file isn't provided.
+
+You can test it with the Portal 2 Speedrun Mod LiveSplit file included.
